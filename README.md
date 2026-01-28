@@ -1,7 +1,7 @@
 ![tor-browser-ui](https://github.com/user-attachments/assets/0ffc9155-8ada-4757-83e5-8de0728617ef)
 
 # Threat Hunt Report: Unauthorized TOR Usage (S0183)
-- [Scenario Creation](https://github.com/churd-git/Threat-Hunting-Scenario-Tor/blob/main/Threat-Hunting-Scenario-Tor-Event-Creation)
+- [Scenario Creation](https://github.com/SecurityHero/Tor/blob/main/Threat%20Hunting%20Scenario%20Creation)
 
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
